@@ -1,0 +1,15 @@
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\Chapter18\bin\Debug\net8.0\Chapter18.exe
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\Chapter18\bin\Debug\net8.0\Chapter18.deps.json
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\Chapter18\bin\Debug\net8.0\Chapter18.runtimeconfig.json
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\Chapter18\bin\Debug\net8.0\Chapter18.dll
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\Chapter18\bin\Debug\net8.0\Chapter18.pdb
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\Chapter18\obj\Debug\net8.0\Chapter18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\Chapter18\obj\Debug\net8.0\Chapter18.AssemblyInfoInputs.cache
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\Chapter18\obj\Debug\net8.0\Chapter18.AssemblyInfo.cs
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\Chapter18\obj\Debug\net8.0\Chapter18.csproj.CoreCompileInputs.cache
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\Chapter18\obj\Debug\net8.0\Chapter18.sourcelink.json
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\Chapter18\obj\Debug\net8.0\Chapter18.dll
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\Chapter18\obj\Debug\net8.0\refint\Chapter18.dll
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\Chapter18\obj\Debug\net8.0\Chapter18.pdb
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\Chapter18\obj\Debug\net8.0\Chapter18.genruntimeconfig.cache
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\Chapter18\obj\Debug\net8.0\ref\Chapter18.dll
